@@ -1,2 +1,2 @@
 # directory-scraping
-Scrap data from Columbia UNI directory with autmoated web-browser
+Scrap student data from Columbia UNI directory with automated selenium web-browser
